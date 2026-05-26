@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "LeChanh's Automation 02",
+  "version": "1.0",
+  "description": "Tự động chấm điểm đoàn viên trên trang quanlydoanvien.doanthanhnien.vn",
+ "icons": {
+    "16": "images/icon.png",
+    "48": "images/icon.png",
+    "128": "images/icon.png"
+  },
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "https://quanlydoanvien.doanthanhnien.vn/*"
+  ],
+  "action": {
+    "default_title": "Auto Rate"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
+

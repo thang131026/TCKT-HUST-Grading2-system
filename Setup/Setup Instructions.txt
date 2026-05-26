@@ -1,0 +1,33 @@
+#-------
+
+Bước 1: truy cập vào đường link sau:
+    https://github.com/thang131026/TCKT-HUST-Grading-system.git
+Bước 2: Chọn tab "Code" sau đó chọn "Download ZIP"
+Bước 3: Vào phân vùng đã lưu, chọn giải nén "Extract to"
+
+#------
+
+Bước 1: truy cập vào đường link sau:
+    chrome://extensions/
+Bước 2: Bật tính năng nhà phát triển của gg chrome
+Bước 3: Chọn tab "Tải tiện ích đã giải nén"
+Bước 4: Ở vùng tất cả tiện ích hiện "LeChanh's Automation 01" vậy là thành công 
+Bước 5: Nếu 4 bước trên gặp vấn đề vui lòng mở file README.md trong file tải xuống để được hỗ trợ
+
+#------
+
+Bước 1: Đăng nhập vào web qldv: 
+    Chạy file html "Quản lý Đoàn viên" trong file đã tải về, hoặc truy cập:
+    https://quanlydoanvien.doanthanhnien.vn/home
+Bước 2: Vào mục Đánh giá, xếp loại hoặc truy cập link này sau khi đã đăng nhập:
+    https://quanlydoanvien.doanthanhnien.vn/nghiep-vu-doan/danh-gia-doan-vien
+Bước 3: Chọn vào phần tiện ích ở bên phải thanh tìm kiếm (icon miếng xếp hình)
+Bước 4: Chọn tiện ích "LeChanh's Automation 01"
+Bước 5: Ô Check hiện lên chọn "OGE"
+Bước 6: Đợi tool chạy là xong^^
+
+#------
+
+CHÚC CÁC BẠN THÀNH CÔNG^^
+Trân Trọng,
+LeChanh
